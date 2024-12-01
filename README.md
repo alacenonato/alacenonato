@@ -1,4 +1,4 @@
-## Hi there 👋
+<!-- ## Hi there 👋 -->
 
 <!--
 **alacenonato/alacenonato** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-# Olá, eu sou [Seu Nome]! 👾
+# Olá, eu sou Alace Pereira 👾
 
 🎓 Estudante de Sistemas de Informação na **UNIFATECIE** e apaixonado por tecnologia!  
 💻 Atualmente, estou desenvolvendo minhas habilidades em programação e criação de sites.  
@@ -32,15 +32,10 @@ Here are some ideas to get you started:
 
 ## 💡 Minhas Skills  
 ### Linguagens e Ferramentas  
-- ![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white)  
-- ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=black)  
-- ![HTML](https://img.shields.io/badge/-HTML-E34F26?logo=html5&logoColor=white)  
-- ![CSS](https://img.shields.io/badge/-CSS-1572B6?logo=css3&logoColor=white)  
-- ![Node.js](https://img.shields.io/badge/-Node.js-339933?logo=node.js&logoColor=white)  
-- ![WordPress](https://img.shields.io/badge/-WordPress-21759B?logo=wordpress&logoColor=white)  
+ ![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white) ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=black) ![HTML](https://img.shields.io/badge/-HTML-E34F26?logo=html5&logoColor=white) ![CSS](https://img.shields.io/badge/-CSS-1572B6?logo=css3&logoColor=white) ![Node.js](https://img.shields.io/badge/-Node.js-339933?logo=node.js&logoColor=white)  ![WordPress](https://img.shields.io/badge/-WordPress-21759B?logo=wordpress&logoColor=white)  
 
 ### O que estou aprendendo 🚀  
-- Desenvolvimento front-end com frameworks modernos.  
+- Desenvolvimento front-end.  
 - Construção de APIs usando **Node.js**.  
 - Aperfeiçoamento de boas práticas em **Python**.  
 - Plugins e personalização avançada no **WordPress**.  
@@ -50,30 +45,30 @@ Here are some ideas to get you started:
 ## 🚀 Projetos Destacados  
 Aqui estão alguns projetos que estou trabalhando ou já concluí:  
 
-- [Meu Primeiro Portfólio](https://github.com/seudousuario/meu-portfolio)  
+- [Meu Primeiro Portfólio](https://github.com/alacepereira/meu-portfolio)  
   Um site pessoal criado com HTML, CSS e JavaScript para exibir meu aprendizado e projetos.
+  Projeto em andamento!
 
-- [API com Node.js](https://github.com/seudousuario/minha-api-nodejs)  
+<!-- - [API com Node.js](https://github.com/seudousuario/minha-api-nodejs)  
   Uma API simples para gerenciamento de tarefas, construída com Node.js e Express.
 
 - [Sistema de Blog com WordPress](https://github.com/seudousuario/blog-wordpress)  
   Um blog simples criado com WordPress e customizado com CSS e plugins.  
 
 - [Jogos Clássicos com Python](https://github.com/seudousuario/jogos-classicos-python)  
-  Remakes de clássicos como Snake e Pong usando Python.
+  Remakes de clássicos como Snake e Pong usando Python. -->
 
 ---
 
 ## 🎮 Retrogamer por Natureza  
-🎲 Meu hobby favorito é explorar o mundo dos **jogos antigos**. Adoro revisitar consoles como NES, SNES e Mega Drive!  
-🕹️ Além disso, gosto de estudar como esses jogos foram feitos e recriar pequenos trechos com minhas skills de programação.  
+🎲 Meu hobby favorito é explorar o mundo dos **jogos antigos**. Adoro revisitar consoles como NES, SNES e Mega Drive! 🕹️ 
 
 ---
 
 ## 🌐 Onde Me Encontrar  
-- LinkedIn: [Seu Nome](https://www.linkedin.com/in/seu-nome)  
-- GitHub: [seudousuario](https://github.com/seudousuario)  
-- E-mail: [seuemail@email.com](mailto:seuemail@email.com)  
+<!-- - LinkedIn: [Seu Nome](https://www.linkedin.com/in/seu-nome)   -->
+- GitHub: [https://github.com/alacenonato](https://github.com/alacenonato)  
+- E-mail: [alac_pereiral@hotmail.com](mailto:alac_pereiral@hotmail.com)  
 
 ---
 
