@@ -73,4 +73,4 @@ Aqui estão alguns projetos que estou trabalhando ou já concluí:
 ---
 
 *"Não importa quão simples seja o começo, o importante é continuar avançando!"* 🚀  
-![Visitantes](https://visitor-badge.glitch.me/badge?page_id=seudousuario.perfil)
+<!-- ![Visitantes](https://visitor-badge.glitch.me/badge?page_id=seudousuario.perfil) -->
